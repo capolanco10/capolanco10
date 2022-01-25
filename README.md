@@ -2,14 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/capolanco10?color=1DA1F2&label=capolanco10&logo=twitter&style=for-the-badge)](https://twitter.com/capolanco10)
 
-### 💻 Web Developer 🌱
+### 💻 Software Developer 🌱
 
-- 🔭 I’m currently working on a [Courses or YT][website]
+- 🔭 I’m currently working on a [Carvajal Tecnologia y Servicio][carvajal]
 - 🌱 I’m currently learning more about web dev
 - 👯 I’m looking to collaborate webinar,meetup...
 - 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
 
 ---
 
@@ -58,3 +56,4 @@
 [website]: https://carlospolanco.dev/
 [yt]: https://carlospolanco.dev/
 [blog]: https://carlospolanco.dev/
+[carvajal]: https://www.carvajaltys.com/
