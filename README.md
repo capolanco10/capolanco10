@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/capolanco10?color=1DA1F2&label=capolanco10&logo=twitter&style=for-the-badge)](https://twitter.com/capolanco10)
 
-### 💻 Web Developer 🌱Father and Vegan
+### 💻 Web Developer 🌱
 
 - 🔭 I’m currently working on a [Courses or YT][website]
 - 🌱 I’m currently learning more about web dev
@@ -29,26 +29,23 @@
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
 
+[<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][yt]
+
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][yt]
 
-[<img align="left" alt="java" width="26px" src="![java](https://user-images.githubusercontent.com/7978586/151021961-24fa98be-5fd6-4f81-acf7-f3617e67aa2c.png)
-" />][yt]
+[<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][yt]
+
+[<img align="left" alt="postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][yt]
+
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][yt]
+
+[<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][yt]
+
+[<img align="left" alt="maven" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/maven/maven.png" />][yt]
+
+[<img align="left" alt="spring-boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][yt]
 
 <br/>
-
----
-
-### 🎥 Last YT videos
-
-<!-- YT:START -->
-- [Typescript introducción y acceso a curso](https://www.youtube.com/watch?v=tfYkPpnMSYQ)
-- [Vscode tips que nadie muestra [visual studio code 2021]](https://www.youtube.com/watch?v=5nQZV63nhiM)
-- [Pagina web copiando y pegando con frontendor](https://www.youtube.com/watch?v=XGyGJC2yEBQ)
-- [Oferta 24horas 🔥 - lanzamiento ebook linkedin](https://www.youtube.com/watch?v=6vCErxF4mrc)
-- [Test de insignia de JavaScript para Linkedin | No sé ni importar una librería 🤣](https://www.youtube.com/watch?v=nmvL2MphaJE)
-<!-- YT:END -->
-
-➡️ [More videos...][yt]
 
 ---
 
