@@ -1,6 +1,6 @@
 ### Hi [Carlos Polanco][website] here 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/capolanco10?color=1DA1F2&label=capolanco10&logo=twitter&style=for-the-badge)](https://twitter.com/capolanco10)
+[![Twitter Follow](https://img.shields.io/twitter/follow/capolanco10?style=social)](https://twitter.com/capolanco10)
 
 ### 💻 Software Developer 🌱
 
@@ -53,7 +53,7 @@
 
 <!-- LINKS -->
 
-[website]: https://carlospolanco.dev/
-[yt]: https://carlospolanco.dev/
-[blog]: https://carlospolanco.dev/
+[website]: https://capolanco10.github.io
+[yt]: https://capolanco10.github.io
+[blog]: https://capolanco10.github.io
 [carvajal]: https://www.carvajaltys.com/
